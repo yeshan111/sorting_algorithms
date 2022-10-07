@@ -89,7 +89,7 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Juan Pablo Yepes Tamayo**
+* **Yeshan Pillay**
  - [GitHub](https://github.com/yeshan111)
  - [Linkedin](https://www.linkedin.com/in/yeshan111)
  - [Twitter](https://twitter.com/yeshanp)
